@@ -46,17 +46,8 @@ export default function Privacy() {
         <ul>
           <li>The app is designed for users aged <strong>9 and above</strong>.</li>
           <li><em>Personalized ads</em> are not shown; only general audience (<code>MaxAdContentRating = G</code>) ads are used.</li>
-          <li>Uygulama COPPA uyumludur: yalnızca kişiselleştirilmemiş reklamlar gösterilir.</li>
+          <li>The app is COPPA compliant: only non-personalized ads are shown.</li>
         </ul>
-        {/* <pre><code className="language-dart">// Google Mobile Ads configuration (in Flutter code)
-MobileAds.instance.updateRequestConfiguration(
-  RequestConfiguration(
-    tagForChildDirectedTreatment: TagForChildDirectedTreatment.yes,
-    tagForUnderAgeOfConsent: TagForUnderAgeOfConsent.yes,
-    maxAdContentRating: MaxAdContentRating.g,
-  ),
-);
-</code></pre> */}
 
         <h2>4. Third-Party Service Providers</h2>
         <ul>
