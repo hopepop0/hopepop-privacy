@@ -1,4 +1,4 @@
-# HopePop
+# HopePop Mobil Uygulama
 # Gizlilik Politikası
 
 Bu Gizlilik Politikası, *HopePop* (“uygulama”, “biz”, “bizim” veya “bize”) tarafından mobil cihazlarda sunulan HopePop uygulaması için geçerlidir. HopePop’u indirerek ve kullanarak, işbu politikada tanımlanan veri toplama ve kullanım uygulamalarını kabul etmiş sayılırsınız.
