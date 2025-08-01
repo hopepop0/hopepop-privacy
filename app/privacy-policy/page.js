@@ -30,11 +30,7 @@ export default function Privacy() {
           </ul>
           <li><em>Non-personalized</em> ad request data (<code>nonPersonalizedAds: true</code>) ensures no user profiling.</li>
         </ul>
-        <h3>2. Donation Link Interactions</h3>
-        <ul>
-          <li>Records how many times and on which dates the Donate button within the app is tapped.</li>
-          <li>This data is stored locally on the device (<code>SharedPreferences</code>) and is never shared with third parties.</li>
-        </ul>
+        
 
         <h2>2. Purpose of Processing</h2>
         <ul>
@@ -61,17 +57,13 @@ export default function Privacy() {
 
         <h2>5. Data Retention</h2>
         <ul>
-          <li><strong>Donation tap data:</strong> Retained on the user’s device permanently until the app is uninstalled.</li>
+    
           <li><strong>Ad data:</strong> Subject to Google AdMob’s retention policies in accordance with Google’s privacy guidelines.</li>
         </ul>
 
-        <h2>6. User Rights</h2>
-        <ul>
-          <li><strong>Data Deletion Request:</strong> You may request deletion of your donation tap data by emailing <a href="mailto:hopepop.info@gmail.com">hopepop.info@gmail.com</a>.</li>
-          <li><strong>Processing Time:</strong> Requests will be handled within 30 days of receipt.</li>
-        </ul>
+        
 
-        <h2>7. Policy Updates</h2>
+        <h2>6. Policy Updates</h2>
         <p>This Privacy Policy may be updated to reflect new features or legal requirements. Changes will be posted here with an updated <em>Effective Date</em>.</p>
         <p><strong>Effective Date:</strong> July 6, 2025</p>
       </main>
