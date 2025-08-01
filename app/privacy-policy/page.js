@@ -65,7 +65,7 @@ export default function Privacy() {
 
         <h2>6. Policy Updates</h2>
         <p>This Privacy Policy may be updated to reflect new features or legal requirements. Changes will be posted here with an updated <em>Effective Date</em>.</p>
-        <p><strong>Effective Date:</strong> July 6, 2025</p>
+        <p><strong>Effective Date:</strong> July 28, 2025</p>
       </main>
     </>
   );
